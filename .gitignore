@@ -42,9 +42,12 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+<<<<<<< HEAD
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
+=======
+>>>>>>> 9f7913d0e9b465b9d32019a0740659fdd6a76b4a
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -151,7 +154,11 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
+<<<<<<< HEAD
 # Note: Comment the next line if you want to checkin your web deploy settings,
+=======
+# TODO: Comment the next line if you want to checkin your web deploy settings
+>>>>>>> 9f7913d0e9b465b9d32019a0740659fdd6a76b4a
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -186,7 +193,10 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
+<<<<<<< HEAD
 *.appx
+=======
+>>>>>>> 9f7913d0e9b465b9d32019a0740659fdd6a76b4a
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -282,9 +292,12 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+<<<<<<< HEAD
 # Tabs Studio
 *.tss
 
+=======
+>>>>>>> 9f7913d0e9b465b9d32019a0740659fdd6a76b4a
 # Telerik's JustMock configuration file
 *.jmconfig
 
@@ -292,4 +305,8 @@ __pycache__/
 *.btp.cs
 *.btm.cs
 *.odx.cs
+<<<<<<< HEAD
 *.xsd.cs
+=======
+*.xsd.cs
+>>>>>>> 9f7913d0e9b465b9d32019a0740659fdd6a76b4a
